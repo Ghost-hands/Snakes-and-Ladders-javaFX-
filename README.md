@@ -1,3 +1,3 @@
 # Snakes-and-Ladders-javaFX-
-This was my 2nd year university project. I do not think i managed to make the code efficient enough, or made good use of classes really.
-Nonetheless, sharing this project here is worth it, if only to learn and grow more from feedback or people's versions of this simple game.
+I do not think i managed to make the code efficient enough, or made good use of classes really. But i will still share this, since tracking my journey
+of improvement in coding is what it is all about.
